@@ -26,6 +26,10 @@ bin/
 .vscode/
 
 ### Mac OS ###
+<<<<<<< HEAD
 .DS_Store
 /Test1.iml
 .idea
+=======
+.DS_Store
+>>>>>>> df6c31a (first commit)
